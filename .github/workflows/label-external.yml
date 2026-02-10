@@ -12,7 +12,7 @@ on:
 permissions:
   contents: read
   issues: write
-  repository-projects: read
+  repository-projects: none
   actions: write
   pull-requests: write
  
